@@ -9,4 +9,4 @@ how to use:
 >python2 gui.py
 
 
-(because i use the pylab in order to draw the graph, the running time of the code is very long. maybe(40s))
+(because i use the pylab in order to draw the graph, the running time of the code is very long. around(40s) but finishing clustering about 10s)
