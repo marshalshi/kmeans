@@ -9,4 +9,5 @@ how to use:
 >python2 gui.py
 
 
-(because i use the pylab in order to draw the graph, the running time of the code is very long. around(40s) but finishing clustering about 10s)
+(because i use the pylab in order to draw the graph, the running time of the code is very long. 
+the running time of file "gau" which has 5000 points is around 30s, but we can get the k cluster about 7s.)
