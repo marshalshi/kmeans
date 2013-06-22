@@ -1,4 +1,5 @@
-#master
+#!/usr/bin/python
+#master comment
 
 import matplotlib
 import pylab
